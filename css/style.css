@@ -1,0 +1,8 @@
+body{
+    background-color:  hsl(216, 15%, 48%);
+}
+main{
+    border: 1px solid white;
+    border-radius: 25%;
+    padding: 10px;
+}
